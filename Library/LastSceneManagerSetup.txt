@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_SpaceShooter_scenes/SpaceShooter_PC_Mac.unity
+  isLoaded: 1
+  isActive: 1
