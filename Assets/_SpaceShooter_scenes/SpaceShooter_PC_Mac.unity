@@ -493,6 +493,17 @@ MonoBehaviour:
   shot: {fileID: 1280115581097502, guid: 984345b73a5523a46bcd9e718e044787, type: 2}
   shotSpawn: {fileID: 210700854}
   fireRate: 0.25
+--- !u!114 &1982746913
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1982746908}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba36fd1d017fba6448ef9a062c83d58c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2068729061
 GameObject:
   m_ObjectHideFlags: 0
